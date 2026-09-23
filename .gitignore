@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+data/direct_equity/*.pdf
+data/raw/*.xls
+data/direct_equity/main_settings.sql
