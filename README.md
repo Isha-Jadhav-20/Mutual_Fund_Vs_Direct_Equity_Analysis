@@ -258,7 +258,7 @@ The Power BI dashboard provides an interactive view of the major financial indic
 
 <p align="center">
 
-<img src="powerbi/Mutal%20Fund%20vs%20Direct%20Equity%20Dashboard.PNG" width="1000"/>
+<img src="powerbi/Mutual%20Fund%20vs%20Direct%20Equity%20Trend%20Analysis%20Dashboard.PNG" width="1000"/>
 
 </p>
 
